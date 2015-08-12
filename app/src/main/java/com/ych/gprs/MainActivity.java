@@ -19,6 +19,8 @@ import android.support.v4.widget.DrawerLayout;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
+import com.loopj.android.http.AsyncHttpClient;
+
 import java.net.InetAddress;
 import java.net.NetworkInterface;
 import java.net.SocketException;
